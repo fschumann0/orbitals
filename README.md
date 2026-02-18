@@ -8,13 +8,13 @@ Web version: Coming soon...
 
 # Building Requirements:
 
-1. <a name="my-custom-anchor-point">Python3</a>
+1. Python 3.12 or newer
 
-2. Pygame
+2. <a href=">pygame.org">Pygame</a>
 
-3. NumPy
+3. <a href=">numpy.org">NumPy</a>
 
-4. SciPy
+4. <a href=">scipy.org">SciPy</a>
 
 # Guide
 
