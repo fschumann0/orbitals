@@ -1,14 +1,12 @@
 # Hydrogen Quantum Orbital Simulation
 
-<img width="2200" height="2000" alt="Guide" src="https://github.com/user-attachments/assets/5a7a6573-f006-4c88-8fb5-9deb59ce0e73" />
-
 This repository includes the raw code for the quantum orbital simulation. 3D and 2D versions are available.
 
-The simulation visualizes the probability distribution of an electron in different quantum states. It uses Pygame for real-time rendering and NumPy/SciPy for mathematical computations of the wavefunctions.
+The simulation visualizes the probability distribution of an electron in different quantum states. It uses **Pygame** for real-time rendering and **NumPy/SciPy** for mathematical computations of the wavefunctions.
 
 Web version: Coming soon...
 
-Building Requirements:
+# Building Requirements:
 
     Python3
 
@@ -17,4 +15,6 @@ Building Requirements:
     NumPy
 
     SciPy
+
+<img width="2200" height="2000" alt="Guide" src="https://github.com/user-attachments/assets/5a7a6573-f006-4c88-8fb5-9deb59ce0e73" />
 
