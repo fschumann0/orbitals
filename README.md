@@ -8,7 +8,7 @@ Web version: Coming soon...
 
 # Building Requirements:
 
-1. Python3
+1. <a name="my-custom-anchor-point">Python3</a>
 
 2. Pygame
 
