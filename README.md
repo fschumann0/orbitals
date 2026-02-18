@@ -18,5 +18,7 @@ Web version: Coming soon...
 
 # Guide
 
+<img width="1077" height="792" alt="image" src="https://github.com/user-attachments/assets/ec36c03f-20a5-40a0-af3c-424058284fa7" />
+
 <img width="2200" height="2000" alt="Guide" src="https://github.com/user-attachments/assets/5a7a6573-f006-4c88-8fb5-9deb59ce0e73" />
 
