@@ -4,7 +4,7 @@ This repository includes the raw code for the quantum orbital simulation. 3D and
 
 The simulation visualizes the probability distribution of an electron in different quantum states. It uses **Pygame** for real-time rendering and **NumPy/SciPy** for mathematical computations of the wavefunctions.
 
-Web version: Coming soon...
+Web version: **Coming soon...**
 
 # Building Requirements:
 
