@@ -18,7 +18,7 @@ Web version: **Coming soon...**
 
 4. <a href=">scipy.org">SciPy</a>
 
-# Guide
+# Screenshots
 
 3D view 
 
@@ -28,6 +28,7 @@ Web version: **Coming soon...**
 
 <img width="1530" height="858" alt="image" src="https://github.com/user-attachments/assets/9e7d5e55-ae0a-45f2-a788-6a27d4ca8c4d" />
 
+Guide
 
 <img width="2200" height="2000" alt="Guide" src="https://github.com/user-attachments/assets/5a7a6573-f006-4c88-8fb5-9deb59ce0e73" />
 
