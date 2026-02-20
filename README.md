@@ -20,7 +20,11 @@ Web version: **Coming soon...**
 
 # Guide
 
+3D view 
+
 <img width="1527" height="865" alt="screen1" src="https://github.com/user-attachments/assets/44f73a4a-8b33-44ec-8d3f-c9c5e376a10a" />
+
+2D view
 
 <img width="1530" height="858" alt="image" src="https://github.com/user-attachments/assets/9e7d5e55-ae0a-45f2-a788-6a27d4ca8c4d" />
 
